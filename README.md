@@ -1,4 +1,4 @@
-# YOK-YKDS
+# YOK-YKDS-Hazırlık-4000+2400 soru
 Yalnız yiyen yalnız ölür
 
 
